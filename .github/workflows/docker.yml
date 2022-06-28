@@ -25,4 +25,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: anymeofyou/mltb:emily
+          tags: eaustin6/sextb:heroku
