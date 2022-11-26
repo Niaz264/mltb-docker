@@ -25,4 +25,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: lavender/osmium:latest
+          tags: eaustin6/osmium:latest
