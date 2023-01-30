@@ -1,1 +1,1 @@
-ghcr.io/tonmoyislam250/alpinedocker:latest
+FROM ghcr.io/tonmoyislam250/alpinedocker:latest
