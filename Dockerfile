@@ -1,1 +1,1 @@
-FROM ghcr.io/tonmoyislam250/alpinedocker:latest
+FROM anasty17/mltb:dev
